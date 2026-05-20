@@ -1,0 +1,6 @@
+{
+  "name": "Heaven Minded Studios",
+  "description": "Beyond Entertainment — We Inspire. Premium cinematic web experiences, branding, visual storytelling, and music by AD Prince.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
